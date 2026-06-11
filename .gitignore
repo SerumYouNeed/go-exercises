@@ -1,0 +1,33 @@
+# Binaries
+bin/
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Tests
+*.test
+*.out
+*.prof
+
+# Local dependencies
+# vendor/
+
+# Config
+.env
+.env.*
+!.env.example
+
+# Dev tools & IDE
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Systemow
+.DS_Store
+Thumbs.db
