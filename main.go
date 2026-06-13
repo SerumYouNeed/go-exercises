@@ -7,8 +7,12 @@ import (
 func main () {
 	fmt.Println("Hello World!")
 
-	var x int = 5
-	fmt.Printf("The value of x is %d\n", x)
+	m := [3]string{"Go", "is", "awesome"}
+
+	for _, word := range m {
+		fmt.Printf("%s ", word)
+	}
+
 
 	for i := 0; i < 10; i++ {
 		fmt.Printf("The value of i is %d\n", i)
