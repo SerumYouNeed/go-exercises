@@ -9,6 +9,9 @@ func main () {
 
 	m := [3]string{"Go", "is", "awesome"}
 
+	var i []int
+	fmt.Println("i val: %T", i)
+
 	for _, word := range m {
 		fmt.Printf("%s ", word)
 	}
