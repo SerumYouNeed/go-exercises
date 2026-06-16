@@ -5,15 +5,12 @@ import (
 )
 
 func main () {
-	fmt.Println("Hello World!")
 
-	m := [3]string{"Go", "is", "awesome"}
+	for _, v := range []int{1, 2, 3, 4, 5, 6} {
 
-	var i []int
-	fmt.Println("i val: %T", i)
-
-	for _, word := range m {
-		fmt.Printf("%s ", word)
+		fmt.Printf("%d ", v)
+		if v == 5 {
+			continue
+		}
 	}
-
 }
