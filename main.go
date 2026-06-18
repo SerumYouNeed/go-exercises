@@ -13,4 +13,8 @@ func main () {
 			break
 		}
 	}
+
+	z := 0
+	if z > 0 {
+		fmt.Println("z is bigger than 0")
 }
