@@ -18,3 +18,4 @@ func main () {
 	if z > 0 {
 		fmt.Println("z is bigger than 0")
 }
+}
