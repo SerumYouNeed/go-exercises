@@ -10,7 +10,7 @@ func main () {
 
 		fmt.Printf("%d ", v)
 		if v == 5 {
-			break
+			continue
 		}
 	}
 
