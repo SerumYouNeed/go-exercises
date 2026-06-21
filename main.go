@@ -14,7 +14,7 @@ func main () {
 		}
 	}
 
-	z := 0
+	z := 1
 	if z > 0 {
 		fmt.Println("z is bigger than 0")
 }
