@@ -1,3 +1,5 @@
-C# or not C#
+ierhthgC# or not C#
+I think it's a great language!
 ChatGPT said C#!
 But maybe it's a poor choice...
+Maybe I should stop coding once and for all?
