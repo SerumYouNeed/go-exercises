@@ -1,4 +1,5 @@
-i znowu bez celu
+co się dzieje
+io znowu bez celu
 a teraz coś bez sensu
 ierhthgC# or not C#
 I think it's a great language!
