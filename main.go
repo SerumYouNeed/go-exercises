@@ -1,4 +1,5 @@
 co się dzieje
+lll jjj
 kkk lll
 xxx qqq
 io znowu bez celu
