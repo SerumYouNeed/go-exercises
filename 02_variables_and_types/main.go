@@ -18,4 +18,7 @@ func main(){
 
 	guestCount := 10 // short declaration, type is inferred
 	fmt.Println("Guest Count:", guestCount)
+
+	secondChannel := "Joy of coding"
+	fmt.Println(secondChannel)
 }
