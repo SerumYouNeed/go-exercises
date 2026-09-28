@@ -3,6 +3,7 @@ package main
 import "fmt"
 
 func main(){
+	// ; is added authomatically at the 
 	var channelName string
 	channelName = "Learn Golang"
 	var year int = 2026
@@ -19,6 +20,6 @@ func main(){
 	guestCount := 10 // short declaration, type is inferred
 	fmt.Println("Guest Count:", guestCount)
 
-	secondChannel := "Joy of coding"
+	secondChannel := "Joy of coding part two"
 	fmt.Println(secondChannel)
 }
