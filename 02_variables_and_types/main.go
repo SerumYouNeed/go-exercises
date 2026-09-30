@@ -20,4 +20,8 @@ func main(){
 	guestCount := 10 // short declaration, type is inferred
 	fmt.Println("Guest Count:", guestCount)
 
+	if guestCount == 10 {
+		fmt.Println("Yep!")
+	}
+
 }
