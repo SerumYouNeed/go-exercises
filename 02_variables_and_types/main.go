@@ -24,4 +24,8 @@ func main(){
 		fmt.Println("Yep!")
 	}
 
+	for i := 0; i < 11; i++ {
+		fmt.Println(i)
+	}
+
 }
