@@ -32,6 +32,7 @@ func main(){
 	fmt.Printf("Type of character: %T\n", text[1]) // uint8
 	fmt.Printf("Type of character: %T\n", []rune(text)[1]) // rune -> int32
 	
-	// teraz dalej
-	
+	for i in range text.len {
+		println(i)
+	}
 }
