@@ -35,5 +35,5 @@ func main(){
 	for i := 0; i < len(text); i++ {
 		fmt.Println([]rune(text)[i])
 	}
-	// zmień
+	
 }
