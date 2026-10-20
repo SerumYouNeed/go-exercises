@@ -35,5 +35,8 @@ func main(){
 	for i := 0; i < len(text); i++ {
 		fmt.Println([]rune(text)[i])
 	}
-	// co jest nie tak
+
+	for i, letter := range text {
+		fmt.Printf("Index: %d, Letter: %c\n", i, letter)
+	}
 }
